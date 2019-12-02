@@ -58,6 +58,16 @@ Website - https://internetingishard.com/html-and-css/
 
 [![html and css by interneting-is-hard](https://user-images.githubusercontent.com/42115530/66373837-347ece00-e9c7-11e9-8293-b2d54a4dc66c.PNG)](https://internetingishard.com/html-and-css/)
 
+### THE NET NINJA
+
+IF YOU WANT TO BLACK BELT YOUR DEVELOPMENT SKILLS FROM SCRATCH THEN YOU SHOULD MUST REFER FOLLOWING TUTORIALS FOR SURE.
+
+https://www.youtube.com/watch?v=Y1BlT4_c_SU&list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc( HTML FOR BEGINEERS)
+https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT( FOR LEARNING CSS FROM BASICS)
+https://www.youtube.com/watch?v=jgw82b5Y2MU&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5( CSS ANIMATION)
+https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET( JAVASCRIPT)
+
+
 
 ## Java
 
